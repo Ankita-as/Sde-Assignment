@@ -81,3 +81,6 @@ https://sde-assignment-jyq3vzzao-ankita-sinhas-projects.vercel.app/
 
 <img width="1873" height="951" alt="versal(home)" src="https://github.com/user-attachments/assets/bc8102c2-fb98-4490-aa00-cf80365d2000" />
 
+## Live Video Link:
+https://www.loom.com/share/bee42642b1554c3ebf4cbac9af435fc7?sid=3702eb55-acb4-4820-ab6d-aa5ddd8a07c3
+
