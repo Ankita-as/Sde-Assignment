@@ -65,3 +65,8 @@ Firebase Console: https://console.firebase.google.com/u/0/project/sde-intern-ass
 Pinia Store Docs: https://pinia.vuejs.org/
 
 Tailwind CSS
+
+## 🔗 Live Demo
+
+Visit the deployed app: [sde-assignment Live](https://sde-assignment-tawny.vercel.app)
+https://sde-assignment-jyq3vzzao-ankita-sinhas-projects.vercel.app/
