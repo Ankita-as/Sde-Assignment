@@ -1,3 +1,6 @@
+
+<img width="896" height="230" alt="image" src="https://github.com/user-attachments/assets/0483544c-d41d-403f-9c9d-9c77f92ed288" />
+
 # 🔥 Nuxt + Firebase AI Product App
 
 This is a minimal Nuxt 3 application integrated with **Firebase Authentication**, **Cloud Firestore**, and basic **AI logic** to enhance user experience through personalized product/category suggestions.
