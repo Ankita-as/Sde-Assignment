@@ -14,7 +14,7 @@ This is a minimal Nuxt 3 application integrated with **Firebase Authentication**
 - **Pinia (State Management)**
 - **TypeScript**
 - **Tailwind CSS**
-- **OpenAI / AI logic (if applicable)**
+- **OpenAI / AI logic**
 
 ---
 
