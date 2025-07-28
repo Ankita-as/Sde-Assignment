@@ -73,3 +73,11 @@ Tailwind CSS
 
 Visit the deployed app: [sde-assignment Live](https://sde-assignment-tawny.vercel.app)
 https://sde-assignment-jyq3vzzao-ankita-sinhas-projects.vercel.app/
+
+##Screanshorts
+"C:\Users\ankit\OneDrive\Pictures\Screenshots\versal(home).png"
+"C:\Users\ankit\OneDrive\Pictures\Screenshots\versal(sde).png"
+<img width="1495" height="880" alt="versal(sde)" src="https://github.com/user-attachments/assets/a250d445-06f4-43f8-a1c3-5d1f3ca9ff7c" />
+
+<img width="1873" height="951" alt="versal(home)" src="https://github.com/user-attachments/assets/bc8102c2-fb98-4490-aa00-cf80365d2000" />
+
